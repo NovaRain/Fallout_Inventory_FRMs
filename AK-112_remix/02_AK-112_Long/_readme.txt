@@ -6,7 +6,7 @@ Info:
 My second attempt to make AK-112 look closer to a real-life AK rifle. I
 extended the barrel and edited the gas tube on my new AK-112. Now it looks more
 like an AK-74 rifle, or the rifle which the female hero is holding in one of
-FO1 concept arts: https://fallout.fandom.com/wiki/File:FO1_Vault_Dwellers.jpg
+FO1 concept arts: https://fallout.wiki/wiki/File:FO1_Concept_Art_VDwlrs_1.jpg
 
 Made by NovaRain
 The drum magazine is from FO2: Oblivion Lost mod by Rainman and Gumych.
