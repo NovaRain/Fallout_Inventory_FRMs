@@ -1,6 +1,6 @@
-<p align="center"><img src="/_pics/ammo_edits.png" alt="Extra ammo types"/></p>
+<p align="center"><img src="/_pics/extra_ammo_types.png" alt="Extra Ammo Types"/></p>
 
-## Extra ammo types
+## Extra Ammo Types
 
 ### Info:
 I recolored the color stripe on some ammo to yellow for the new **"Ball"** ammo type. The idea is to have a "standard issue" type of ammo in the game. I also made a .44 Magnum AP, similar to the one in Fallout Tactics.

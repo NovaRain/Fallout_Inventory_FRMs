@@ -1,4 +1,4 @@
-Extra ammo types
+Extra Ammo Types
 ================
 
 Info:
