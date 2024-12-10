@@ -16,6 +16,7 @@ A collection of inventory item FRMs for Fallout 1 and 2. The majority of them ar
 * [Double-barreled Pipe Rifle](DB_Pipe_Rifle/)
 * [Desert Eagle Edits](Desert_Eagle_edits/)
 * [Extra Ammo Types](Extra_Ammo_Types/)
+* [MEC Gauss Minigun](FOT_Gauss_Minigun/)
 * [Heavy Sniper Rifle](Heavy_Sniper_Rifle/)
 * [Hunting Rifle Edits](Hunting_Rifle_edits/)
 * [Kriegsland Metal Armor](Kriegsland_Metal_Armor/)
