@@ -13,6 +13,7 @@ A collection of inventory item FRMs for Fallout 1 and 2. The majority of them ar
   * [AK-112 Parts Kits](AK-112_remix/00_parts/)
 * [Fallout 2 Canon Tuning: Battle Rifle](Battle_Rifle/)
 * [Winchester City-Killer Combat Shotgun (Exp. Mag.)](CityKiller_edits/)
+* [Alternative Colt 6520 10mm Pistol](Colt_6520_alt/)
 * [Double-barreled Pipe Rifle](DB_Pipe_Rifle/)
 * [Desert Eagle Edits](Desert_Eagle_edits/)
 * [Extra Ammo Types](Extra_Ammo_Types/)
